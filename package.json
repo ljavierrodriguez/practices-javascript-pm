@@ -1,0 +1,23 @@
+{
+  "name": "practices-javascript-pm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ljavierrodriguez/practices-javascript-pm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ljavierrodriguez/practices-javascript-pm/issues"
+  },
+  "homepage": "https://github.com/ljavierrodriguez/practices-javascript-pm#readme",
+  "dependencies": {
+    "jest": "^27.2.4"
+  }
+}
